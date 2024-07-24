@@ -21,6 +21,8 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+artifacts/
+python==3.8/
 *.egg-info/
 .installed.cfg
 *.egg
